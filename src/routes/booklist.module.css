@@ -1,0 +1,9 @@
+.container{
+    width: 90%;
+    margin: 0 5%;
+    background-color: rgb(129, 137, 254);
+    border-collapse: collapse;
+}
+.tabtitle{
+    background-color: rgb(213, 213, 213);
+}
